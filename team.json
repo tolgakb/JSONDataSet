@@ -1,0 +1,33 @@
+[
+  {
+    "teamName": "Lakers",
+    "teamWin": "33",
+    "teamLost": "49",
+    "pointsScored": "112",
+    "fieldGoalPercentage": "46.9%",
+    "freeThrowPercentage": "73.2%",
+    "threePointPercentage": "34.7%",
+    "threePointShotsMade": "982",
+    "totalRebounds": "44.0",
+    "assists": "24.0",
+    "turnovers": "13.9",
+    "blockedShots": "5.2",
+    "teamImage": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+ 
+  {
+    "teamName": "Boston",
+    "teamWin": "51",
+    "teamLost": "31",
+    "pointsScored": "112",
+    "fieldGoalPercentage": "46.6%",
+    "freeThrowPercentage": "81.6%",
+    "threePointPercentage": "35.6%",
+    "threePointShotsMade": "1085",
+    "totalRebounds": "46.1",
+    "assists": "24.8",
+    "turnovers": "13.0",
+    "blockedShots": "5.8",
+    "teamImage": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  }
+]
