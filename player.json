@@ -1,0 +1,39 @@
+[
+  {
+    "playerName": "Lebron James",
+    "playerTeamName": "Lakers",
+    "gamePlayed": "49",
+    "minutesPerGame": "35",
+    "pointsPerGame": "46.9%",
+    "fieldGoal": "73.2%",
+    "threePointPercentage": "34.7%",
+    "freeThrowPercentage": "982",
+    "offensiveRebound": "44.0",
+    "defensiveRebound": "24.0",
+    "assist": "13.9",
+    "turnover": "5.2",
+    "steal": "5.2",
+    "block": "5.2",
+    "personalFoul": "5.2",
+    "playerImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/lebron.png"
+  },
+ 
+  {
+    "playerName": "Kyrie Irving",
+    "playerTeamName": "Nets",
+    "gamePlayed": "49",
+    "minutesPerGame": "35",
+    "pointsPerGame": "46.9%",
+    "fieldGoal": "73.2%",
+    "threePointPercentage": "34.7%",
+    "freeThrowPercentage": "982",
+    "offensiveRebound": "44.0",
+    "defensiveRebound": "24.0",
+    "assist": "13.9",
+    "turnover": "5.2",
+    "steal": "5.2",
+    "block": "5.2",
+    "personalFoul": "5.2",
+    "playerImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/irving.png"
+  }
+]
