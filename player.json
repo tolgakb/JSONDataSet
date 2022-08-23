@@ -15,7 +15,7 @@
     "steal": "5.2",
     "block": "5.2",
     "personalFoul": "5.2",
-    "playerImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/lakers.png"
+    "playerImage": ""
   },
  
   {
@@ -34,6 +34,6 @@
     "steal": "5.2",
     "block": "5.2",
     "personalFoul": "5.2",
-    "playerImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/lakers.png"
+    "playerImage": ""
   }
 ]
