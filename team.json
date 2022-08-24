@@ -1,7 +1,6 @@
 [
   {
     "teamName": "Lakers",
-    "teamConference": "West",
     "teamWin": "33",
     "teamLost": "49",
     "pointsScored": "112",
@@ -18,7 +17,6 @@
  
   {
     "teamName": "Boston",
-    "teamConference": "East",
     "teamWin": "51",
     "teamLost": "31",
     "pointsScored": "112",
