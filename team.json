@@ -147,7 +147,6 @@
     "blockedShots": "Blocked Shots: 4.8",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/detroit.png"
   },
-  
   {
     "teamName": "Indiana Pacers",
     "teamConference": "Team Conference: East",
@@ -163,6 +162,22 @@
     "turnovers": "Turnovers: 13.6",
     "blockedShots": "Blocked Shots: 5.6",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/indiana.png"
+  },
+  {
+    "teamName": "Milwaukee Bucks",
+    "teamConference": "Team Conference: East",
+    "teamWin": "Team Win : 51",
+    "teamLost": "Team Lost: 31",
+    "pointsScored": "Points Scroed: 115",
+    "fieldGoalPercentage": "Field Goal Percentage: 46.8%",
+    "freeThrowPercentage": "Free Throw Percentage: 77.6%",
+    "threePointPercentage": "Three Point Percentage: 36.6%",
+    "threePointShotsMade": "Three Point Shots Made: 1153",
+    "totalRebounds": "Total Rebounds: 46.7",
+    "assists": "Assits: 23.9",
+    "turnovers": "Turnovers: 12.7",
+    "blockedShots": "Blocked Shots: 4.0",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/milwaukee.png"
   }
   
 ]
