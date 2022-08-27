@@ -290,5 +290,21 @@
     "turnovers": "Turnovers: 13.0",
     "blockedShots": "Blocked Shots: 5.0",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/clippers.png"
+  },
+  {
+    "teamName": "Phoenix Suns",
+    "teamConference": "West",
+    "teamWin": "Team Win : 64",
+    "teamLost": "Team Lost: 18",
+    "pointsScored": "Points Scroed: 115",
+    "fieldGoalPercentage": "Field Goal Percentage: 48.5%",
+    "freeThrowPercentage": "Free Throw Percentage: 79.7%",
+    "threePointPercentage": "Three Point Percentage: 36.4%",
+    "threePointShotsMade": "Three Point Shots Made: 951",
+    "totalRebounds": "Total Rebounds: 45.3",
+    "assists": "Assits: 27.4",
+    "turnovers": "Turnovers: 12.3",
+    "blockedShots": "Blocked Shots: 4.4",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/phoenix.png"
   }
 ]
