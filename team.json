@@ -450,5 +450,21 @@
     "turnovers": "Turnovers: 13.3",
     "blockedShots": "Blocked Shots: 4.6",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/oklahoma.png"
+  },
+  {
+    "teamName": "Portland Trail Blazers",
+    "teamConference": "West",
+    "teamWin": "Team Win : 27",
+    "teamLost": "Team Lost: 55",
+    "pointsScored": "Points Scroed: 106",
+    "fieldGoalPercentage": "Field Goal Percentage: 44.2%",
+    "freeThrowPercentage": "Free Throw Percentage: 76.0%",
+    "threePointPercentage": "Three Point Percentage: 34.6%",
+    "threePointShotsMade": "Three Point Shots Made: 1043",
+    "totalRebounds": "Total Rebounds: 42.9",
+    "assists": "Assits: 22.9",
+    "turnovers": "Turnovers: 13.7",
+    "blockedShots": "Blocked Shots: 4.5",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/portland.jpg"
   }
 ]
