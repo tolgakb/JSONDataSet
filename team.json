@@ -226,5 +226,21 @@
     "turnovers": "Turnovers: 13.8",
     "blockedShots": "Blocked Shots: 3.2",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/miami.png"
+  },
+  {
+    "teamName": "Orlando Magic",
+    "teamConference": "Team Conference: East",
+    "teamWin": "Team Win : 22",
+    "teamLost": "Team Lost: 60",
+    "pointsScored": "Points Scroed: 104",
+    "fieldGoalPercentage": "Field Goal Percentage: 43.4%",
+    "freeThrowPercentage": "Free Throw Percentage: 78.7%",
+    "threePointPercentage": "Three Point Percentage: 33.1%",
+    "threePointShotsMade": "Three Point Shots Made: 999",
+    "totalRebounds": "Total Rebounds: 44.3",
+    "assists": "Assits: 23.7",
+    "turnovers": "Turnovers: 13.8",
+    "blockedShots": "Blocked Shots: 4.5",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/orlando.png"
   }
 ]
