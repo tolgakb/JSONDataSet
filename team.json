@@ -338,5 +338,21 @@
     "turnovers": "Turnovers: 11.7",
     "blockedShots": "Blocked Shots: 4.0",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/dallas.png"
+  },
+  {
+    "teamName": "Houston Rockets",
+    "teamConference": "West",
+    "teamWin": "Team Win : 20",
+    "teamLost": "Team Lost: 62",
+    "pointsScored": "Points Scroed: 110",
+    "fieldGoalPercentage": "Field Goal Percentage: 45.6%",
+    "freeThrowPercentage": "Free Throw Percentage: 71.3%",
+    "threePointPercentage": "Three Point Percentage: 34.9%",
+    "threePointShotsMade": "Three Point Shots Made: 1105",
+    "totalRebounds": "Total Rebounds: 42.0",
+    "assists": "Assits: 23.6",
+    "turnovers": "Turnovers: 15.7",
+    "blockedShots": "Blocked Shots: 4.7",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/houston.png"
   }
 ]
