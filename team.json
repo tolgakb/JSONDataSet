@@ -418,5 +418,21 @@
     "turnovers": "Turnovers: 13.8",
     "blockedShots": "Blocked Shots: 3.7",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/denver.png"
+  },
+  {
+    "teamName": "Minnesota Timberwolves",
+    "teamConference": "West",
+    "teamWin": "Team Win : 46",
+    "teamLost": "Team Lost: 36",
+    "pointsScored": "Points Scroed: 116",
+    "fieldGoalPercentage": "Field Goal Percentage: 45.7%",
+    "freeThrowPercentage": "Free Throw Percentage: 77.8%",
+    "threePointPercentage": "Three Point Percentage: 35.8%",
+    "threePointShotsMade": "Three Point Shots Made: 1211",
+    "totalRebounds": "Total Rebounds: 44.2",
+    "assists": "Assits: 25.7",
+    "turnovers": "Turnovers: 13.7",
+    "blockedShots": "Blocked Shots: 5.6",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/minnesota.jpg"
   }
 ]
