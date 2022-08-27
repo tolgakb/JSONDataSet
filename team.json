@@ -210,5 +210,21 @@
     "turnovers": "Turnovers: 12.7",
     "blockedShots": "Blocked Shots: 4.9",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/charlotte.png"
+  },
+  {
+    "teamName": "Miami Heat",
+    "teamConference": "Team Conference: East",
+    "teamWin": "Team Win : 53",
+    "teamLost": "Team Lost: 29",
+    "pointsScored": "Points Scroed: 110",
+    "fieldGoalPercentage": "Field Goal Percentage: 46.7%",
+    "freeThrowPercentage": "Free Throw Percentage: 80.8%",
+    "threePointPercentage": "Three Point Percentage: 37.9%",
+    "threePointShotsMade": "Three Point Shots Made: 1114",
+    "totalRebounds": "Total Rebounds: 43.7",
+    "assists": "Assits: 25.5",
+    "turnovers": "Turnovers: 13.8",
+    "blockedShots": "Blocked Shots: 3.2",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/miami.png"
   }
 ]
