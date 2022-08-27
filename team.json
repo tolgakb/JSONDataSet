@@ -402,5 +402,21 @@
     "turnovers": "Turnovers: 12.3",
     "blockedShots": "Blocked Shots: 4.9",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/sanantonio.png"
+  },
+  {
+    "teamName": "Denver Nuggets",
+    "teamConference": "West",
+    "teamWin": "Team Win : 48",
+    "teamLost": "Team Lost: 34",
+    "pointsScored": "Points Scroed: 113",
+    "fieldGoalPercentage": "Field Goal Percentage: 48.3%",
+    "freeThrowPercentage": "Free Throw Percentage: 79.5%",
+    "threePointPercentage": "Three Point Percentage: 35.3%",
+    "threePointShotsMade": "Three Point Shots Made: 1039",
+    "totalRebounds": "Total Rebounds: 44.1",
+    "assists": "Assits: 27.8",
+    "turnovers": "Turnovers: 13.8",
+    "blockedShots": "Blocked Shots: 3.7",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/denver.png"
   }
 ]
