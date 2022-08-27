@@ -194,6 +194,21 @@
     "turnovers": "Turnovers: 11.3",
     "blockedShots": "Blocked Shots: 4.2",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/atlanta.png"
+  },
+  {
+    "teamName": "Charlotte Hornets",
+    "teamConference": "Team Conference: East",
+    "teamWin": "Team Win : 43",
+    "teamLost": "Team Lost: 39",
+    "pointsScored": "Points Scroed: 115",
+    "fieldGoalPercentage": "Field Goal Percentage: 46.8%",
+    "freeThrowPercentage": "Free Throw Percentage: 74.0%",
+    "threePointPercentage": "Three Point Percentage: 36.5%",
+    "threePointShotsMade": "Three Point Shots Made: 1143",
+    "totalRebounds": "Total Rebounds: 44.6",
+    "assists": "Assits: 28.1",
+    "turnovers": "Turnovers: 12.7",
+    "blockedShots": "Blocked Shots: 4.9",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/charlotte.png"
   }
-  
 ]
