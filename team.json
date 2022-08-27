@@ -322,5 +322,21 @@
     "turnovers": "Turnovers: 13.5",
     "blockedShots": "Blocked Shots: 4.5",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/sacramento.png"
+  },
+  {
+    "teamName": "Dallas Mavericks",
+    "teamConference": "West",
+    "teamWin": "Team Win : 52",
+    "teamLost": "Team Lost: 30",
+    "pointsScored": "Points Scroed: 108",
+    "fieldGoalPercentage": "Field Goal Percentage: 46.1%",
+    "freeThrowPercentage": "Free Throw Percentage: 77.1%",
+    "threePointPercentage": "Three Point Percentage: 35.0%",
+    "threePointShotsMade": "Three Point Shots Made: 1073",
+    "totalRebounds": "Total Rebounds: 43.0",
+    "assists": "Assits: 23.4",
+    "turnovers": "Turnovers: 11.7",
+    "blockedShots": "Blocked Shots: 4.0",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/dallas.png"
   }
 ]
