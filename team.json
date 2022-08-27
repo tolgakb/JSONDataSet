@@ -434,5 +434,21 @@
     "turnovers": "Turnovers: 13.7",
     "blockedShots": "Blocked Shots: 5.6",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/minnesota.jpg"
+  },
+  {
+    "teamName": "Oklahoma City Thunder",
+    "teamConference": "West",
+    "teamWin": "Team Win : 24",
+    "teamLost": "Team Lost: 58",
+    "pointsScored": "Points Scroed: 104",
+    "fieldGoalPercentage": "Field Goal Percentage: 43.0%",
+    "freeThrowPercentage": "Free Throw Percentage: 75.6%",
+    "threePointPercentage": "Three Point Percentage: 32.3%",
+    "threePointShotsMade": "Three Point Shots Made: 991",
+    "totalRebounds": "Total Rebounds: 45.6",
+    "assists": "Assits: 22.2",
+    "turnovers": "Turnovers: 13.3",
+    "blockedShots": "Blocked Shots: 4.6",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/oklahoma.png"
   }
 ]
