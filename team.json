@@ -242,5 +242,21 @@
     "turnovers": "Turnovers: 13.8",
     "blockedShots": "Blocked Shots: 4.5",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/orlando.png"
+  },
+  {
+    "teamName": "Washington Wizards",
+    "teamConference": "Team Conference: East",
+    "teamWin": "Team Win : 35",
+    "teamLost": "Team Lost: 47",
+    "pointsScored": "Points Scroed: 109",
+    "fieldGoalPercentage": "Field Goal Percentage: 47.2%",
+    "freeThrowPercentage": "Free Throw Percentage: 78.3%",
+    "threePointPercentage": "Three Point Percentage: 34.2%",
+    "threePointShotsMade": "Three Point Shots Made: 860",
+    "totalRebounds": "Total Rebounds: 43.1",
+    "assists": "Assits: 25.0",
+    "turnovers": "Turnovers: 12.6",
+    "blockedShots": "Blocked Shots: 5.0",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/washington.png"
   }
 ]
