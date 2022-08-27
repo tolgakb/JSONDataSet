@@ -95,5 +95,21 @@
     "turnovers": "Turnovers: 11.6",
     "blockedShots": "Blocked Shots: 4.6",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/toronto.png"
+  },
+  {
+    "teamName": "Chicago Bulls",
+    "teamConference": "Team Conference: East",
+    "teamWin": "Team Win : 46",
+    "teamLost": "Team Lost: 36",
+    "pointsScored": "Points Scroed: 112",
+    "fieldGoalPercentage": "Field Goal Percentage: 48.0%",
+    "freeThrowPercentage": "Free Throw Percentage: 81.3%",
+    "threePointPercentage": "Three Point Percentage: 36.9%",
+    "threePointShotsMade": "Three Point Shots Made: 872",
+    "totalRebounds": "Total Rebounds: 42.3",
+    "assists": "Assits: 23.9",
+    "turnovers": "Turnovers: 12.1",
+    "blockedShots": "Blocked Shots: 4.1",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/chicago.png"
   }
 ]
