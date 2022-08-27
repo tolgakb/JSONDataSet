@@ -79,5 +79,21 @@
     "turnovers": "Turnovers: 11.7",
     "blockedShots": "Blocked Shots: 5.3",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/philadelphia.png"
+  },
+  {
+    "teamName": "Toronto Raptors",
+    "teamConference": "Team Conference: East",
+    "teamWin": "Team Win : 48",
+    "teamLost": "Team Lost: 34",
+    "pointsScored": "Points Scroed: 109",
+    "fieldGoalPercentage": "Field Goal Percentage: 44.5%",
+    "freeThrowPercentage": "Free Throw Percentage: 75.9%",
+    "threePointPercentage": "Three Point Percentage: 34.9%",
+    "threePointShotsMade": "Three Point Shots Made: 979",
+    "totalRebounds": "Total Rebounds: 45.3",
+    "assists": "Assits: 22.1",
+    "turnovers": "Turnovers: 11.6",
+    "blockedShots": "Blocked Shots: 4.6",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/toronto.png"
   }
 ]
