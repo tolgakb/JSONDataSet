@@ -47,5 +47,21 @@
     "turnovers": "Turnovers: 13.2",
     "blockedShots": "Blocked Shots: 5.5",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/brooklyn.png"
+  },
+  {
+    "teamName": "New York Knicks",
+    "teamConference": "Team Conference: East",
+    "teamWin": "Team Win : 37",
+    "teamLost": "Team Lost: 45",
+    "pointsScored": "Points Scroed: 106",
+    "fieldGoalPercentage": "Field Goal Percentage: 43.7%",
+    "freeThrowPercentage": "Free Throw Percentage: 74.4%",
+    "threePointPercentage": "Three Point Percentage: 35.7%",
+    "threePointShotsMade": "Three Point Shots Made: 1082",
+    "totalRebounds": "Total Rebounds: 46.1",
+    "assists": "Assits: 21.9",
+    "turnovers": "Turnovers: 12.4",
+    "blockedShots": "Blocked Shots: 4.9",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/newyork.png"
   }
 ]
