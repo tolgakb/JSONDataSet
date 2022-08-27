@@ -354,5 +354,21 @@
     "turnovers": "Turnovers: 15.7",
     "blockedShots": "Blocked Shots: 4.7",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/houston.png"
+  },
+  {
+    "teamName": "Memphis Grizzlies",
+    "teamConference": "West",
+    "teamWin": "Team Win : 56",
+    "teamLost": "Team Lost: 26",
+    "pointsScored": "Points Scroed: 116",
+    "fieldGoalPercentage": "Field Goal Percentage: 46.1%",
+    "freeThrowPercentage": "Free Throw Percentage: 73.4%",
+    "threePointPercentage": "Three Point Percentage: 35.3%",
+    "threePointShotsMade": "Three Point Shots Made: 945",
+    "totalRebounds": "Total Rebounds: 49.2",
+    "assists": "Assits: 26.0",
+    "turnovers": "Turnovers: 12.5",
+    "blockedShots": "Blocked Shots: 6.5",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/memphis.jpg"
   }
 ]
