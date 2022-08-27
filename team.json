@@ -1,7 +1,7 @@
 [
   {
     "teamName": "Lakers",
-    "teamConference": "Team Conference: West",
+    "teamConference": "West",
     "teamWin": "Team Win : 33",
     "teamLost": "Team Lost: 49",
     "pointsScored": "Points Scroed: 112",
@@ -18,7 +18,7 @@
  
   {
     "teamName": "Boston",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 51",
     "teamLost": "Team Lost: 31",
     "pointsScored": "Points Scroed: 112",
@@ -35,7 +35,7 @@
   
   {
     "teamName": "Brooklyn Nets",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 44",
     "teamLost": "Team Lost: 38",
     "pointsScored": "Points Scroed: 113",
@@ -51,7 +51,7 @@
   },
   {
     "teamName": "New York Knicks",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 37",
     "teamLost": "Team Lost: 45",
     "pointsScored": "Points Scroed: 106",
@@ -67,7 +67,7 @@
   },
   {
     "teamName": "Philadelphia 76ers",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 51",
     "teamLost": "Team Lost: 31",
     "pointsScored": "Points Scroed: 110",
@@ -83,7 +83,7 @@
   },
   {
     "teamName": "Toronto Raptors",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 48",
     "teamLost": "Team Lost: 34",
     "pointsScored": "Points Scroed: 109",
@@ -99,7 +99,7 @@
   },
   {
     "teamName": "Chicago Bulls",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 46",
     "teamLost": "Team Lost: 36",
     "pointsScored": "Points Scroed: 112",
@@ -116,7 +116,7 @@
   
   {
     "teamName": "Cleveland Cavaliers",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 44",
     "teamLost": "Team Lost: 38",
     "pointsScored": "Points Scroed: 108",
@@ -133,7 +133,7 @@
   
   {
     "teamName": "Detroit Pistons",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 23",
     "teamLost": "Team Lost: 59",
     "pointsScored": "Points Scroed: 105",
@@ -149,7 +149,7 @@
   },
   {
     "teamName": "Indiana Pacers",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 25",
     "teamLost": "Team Lost: 57",
     "pointsScored": "Points Scroed: 111",
@@ -165,7 +165,7 @@
   },
   {
     "teamName": "Milwaukee Bucks",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 51",
     "teamLost": "Team Lost: 31",
     "pointsScored": "Points Scroed: 115",
@@ -181,7 +181,7 @@
   },
   {
     "teamName": "Atlanta Hawks",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 43",
     "teamLost": "Team Lost: 39",
     "pointsScored": "Points Scroed: 114",
@@ -197,7 +197,7 @@
   },
   {
     "teamName": "Charlotte Hornets",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 43",
     "teamLost": "Team Lost: 39",
     "pointsScored": "Points Scroed: 115",
@@ -213,7 +213,7 @@
   },
   {
     "teamName": "Miami Heat",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 53",
     "teamLost": "Team Lost: 29",
     "pointsScored": "Points Scroed: 110",
@@ -229,7 +229,7 @@
   },
   {
     "teamName": "Orlando Magic",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 22",
     "teamLost": "Team Lost: 60",
     "pointsScored": "Points Scroed: 104",
@@ -245,7 +245,7 @@
   },
   {
     "teamName": "Washington Wizards",
-    "teamConference": "Team Conference: East",
+    "teamConference": "East",
     "teamWin": "Team Win : 35",
     "teamLost": "Team Lost: 47",
     "pointsScored": "Points Scroed: 109",
@@ -258,5 +258,21 @@
     "turnovers": "Turnovers: 12.6",
     "blockedShots": "Blocked Shots: 5.0",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/washington.png"
+  },
+  {
+    "teamName": "Golden State Warriors",
+    "teamConference": "West",
+    "teamWin": "Team Win : 53",
+    "teamLost": "Team Lost: 29",
+    "pointsScored": "Points Scroed: 111",
+    "fieldGoalPercentage": "Field Goal Percentage: 46.9%",
+    "freeThrowPercentage": "Free Throw Percentage: 76.9%",
+    "threePointPercentage": "Three Point Percentage: 36.4%",
+    "threePointShotsMade": "Three Point Shots Made: 1176",
+    "totalRebounds": "Total Rebounds: 45.5",
+    "assists": "Assits: 27.1",
+    "turnovers": "Turnovers: 14.3",
+    "blockedShots": "Blocked Shots: 4.5",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/goldenstate.png"
   }
 ]
