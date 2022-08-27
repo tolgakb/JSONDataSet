@@ -1,6 +1,6 @@
 [
   {
-    "teamName": "Lakers",
+    "teamName": "Los Angeles Lakers",
     "teamConference": "West",
     "teamWin": "Team Win : 33",
     "teamLost": "Team Lost: 49",
@@ -17,7 +17,7 @@
   },
  
   {
-    "teamName": "Boston",
+    "teamName": "Boston Celtics",
     "teamConference": "East",
     "teamWin": "Team Win : 51",
     "teamLost": "Team Lost: 31",
@@ -274,5 +274,21 @@
     "turnovers": "Turnovers: 14.3",
     "blockedShots": "Blocked Shots: 4.5",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/goldenstate.png"
+  },
+  {
+    "teamName": "Los Angeles Clippers",
+    "teamConference": "West",
+    "teamWin": "Team Win : 42",
+    "teamLost": "Team Lost: 40",
+    "pointsScored": "Points Scroed: 108",
+    "fieldGoalPercentage": "Field Goal Percentage: 45.8%",
+    "freeThrowPercentage": "Free Throw Percentage: 79.3%",
+    "threePointPercentage": "Three Point Percentage: 37.4%",
+    "threePointShotsMade": "Three Point Shots Made: 1047",
+    "totalRebounds": "Total Rebounds: 44.0",
+    "assists": "Assits: 24.0",
+    "turnovers": "Turnovers: 13.0",
+    "blockedShots": "Blocked Shots: 5.0",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/clippers.png"
   }
 ]
