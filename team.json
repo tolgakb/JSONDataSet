@@ -32,7 +32,8 @@
     "blockedShots": "Blocked Shots: 5.8",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/boston.png"
   },
-   {
+  
+  {
     "teamName": "Brooklyn Nets",
     "teamConference": "Team Conference: East",
     "teamWin": "Team Win : 44",
@@ -112,7 +113,8 @@
     "blockedShots": "Blocked Shots: 4.1",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/chicago.png"
   },
-   {
+  
+  {
     "teamName": "Cleveland Cavaliers",
     "teamConference": "Team Conference: East",
     "teamWin": "Team Win : 44",
@@ -127,6 +129,23 @@
     "turnovers": "Turnovers: 13.3",
     "blockedShots": "Blocked Shots: 4.2",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/cleveland.png"
+  },
+  
+  {
+    "teamName": "Detroit Pistons",
+    "teamConference": "Team Conference: East",
+    "teamWin": "Team Win : 23",
+    "teamLost": "Team Lost: 59",
+    "pointsScored": "Points Scroed: 105",
+    "fieldGoalPercentage": "Field Goal Percentage: 43.1%",
+    "freeThrowPercentage": "Free Throw Percentage: 78.2%",
+    "threePointPercentage": "Three Point Percentage: 32.6%",
+    "threePointShotsMade": "Three Point Shots Made: 925",
+    "totalRebounds": "Total Rebounds: 43.0",
+    "assists": "Assits: 23.5",
+    "turnovers": "Turnovers: 13.4",
+    "blockedShots": "Blocked Shots: 4.8",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/detroit.png"
   }
   
 ]
