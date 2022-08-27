@@ -53,5 +53,23 @@
     "block": "Block: 0.9",
     "personalFoul": "Personal Foul: 2.1",
     "playerImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/durant.jpg"
+  },
+  {
+    "playerName": "Anthony Davis",
+    "playerTeamName": "Los Angeles Lakers",
+    "gamePlayed": "Game Played: 40",
+    "minutesPerGame": "Minutes Per Game: 35:03",
+    "pointsPerGame": "Points Per Game: 23.2",
+    "fieldGoal": "Field Goal: 53.2%",
+    "threePointPercentage": "Three Point Percentage: 18.6%",
+    "freeThrowPercentage": "Free Throw Percentage: 71.3%",
+    "offensiveRebound": "Offensive Rebound: 2.7",
+    "defensiveRebound": "Defensive Rebound: 9.9",
+    "assist": "Assit: 3.1",
+    "turnover": "Turnover: 2.1",
+    "steal": "Steal: 1.2",
+    "block": "Block: 2.3",
+    "personalFoul": "Personal Foul: 2.4",
+    "playerImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/anthonydavis.jpg"
   }
 ]
