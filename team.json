@@ -386,5 +386,21 @@
     "turnovers": "Turnovers: 13.3",
     "blockedShots": "Blocked Shots: 4.0",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/neworleans.png"
+  },
+  {
+    "teamName": "San Antonio Spurs",
+    "teamConference": "West",
+    "teamWin": "Team Win : 34",
+    "teamLost": "Team Lost: 48",
+    "pointsScored": "Points Scroed: 113",
+    "fieldGoalPercentage": "Field Goal Percentage: 46.7%",
+    "freeThrowPercentage": "Free Throw Percentage: 75.4%",
+    "threePointPercentage": "Three Point Percentage: 35.2%",
+    "threePointShotsMade": "Three Point Shots Made: 925",
+    "totalRebounds": "Total Rebounds: 45.3",
+    "assists": "Assits: 27.9",
+    "turnovers": "Turnovers: 12.3",
+    "blockedShots": "Blocked Shots: 4.9",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/sanantonio.png"
   }
 ]
