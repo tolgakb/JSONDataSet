@@ -111,5 +111,22 @@
     "turnovers": "Turnovers: 12.1",
     "blockedShots": "Blocked Shots: 4.1",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/chicago.png"
+  },
+   {
+    "teamName": "Cleveland Cavaliers",
+    "teamConference": "Team Conference: East",
+    "teamWin": "Team Win : 44",
+    "teamLost": "Team Lost: 38",
+    "pointsScored": "Points Scroed: 108",
+    "fieldGoalPercentage": "Field Goal Percentage: 46.9%",
+    "freeThrowPercentage": "Free Throw Percentage: 76.0%",
+    "threePointPercentage": "Three Point Percentage: 35.5%",
+    "threePointShotsMade": "Three Point Shots Made: 953",
+    "totalRebounds": "Total Rebounds: 44.2",
+    "assists": "Assits: 25.2",
+    "turnovers": "Turnovers: 13.3",
+    "blockedShots": "Blocked Shots: 4.2",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/cleveland.png"
   }
+  
 ]
