@@ -306,5 +306,21 @@
     "turnovers": "Turnovers: 12.3",
     "blockedShots": "Blocked Shots: 4.4",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/phoenix.png"
+  },
+  {
+    "teamName": "Sacramento Kings",
+    "teamConference": "West",
+    "teamWin": "Team Win : 30",
+    "teamLost": "Team Lost: 52",
+    "pointsScored": "Points Scroed: 110",
+    "fieldGoalPercentage": "Field Goal Percentage: 46.0%",
+    "freeThrowPercentage": "Free Throw Percentage: 76.8%",
+    "threePointPercentage": "Three Point Percentage: 34.4%",
+    "threePointShotsMade": "Three Point Shots Made: 937",
+    "totalRebounds": "Total Rebounds: 42.9",
+    "assists": "Assits: 23.7",
+    "turnovers": "Turnovers: 13.5",
+    "blockedShots": "Blocked Shots: 4.5",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/sacramento.png"
   }
 ]
