@@ -146,6 +146,23 @@
     "turnovers": "Turnovers: 13.4",
     "blockedShots": "Blocked Shots: 4.8",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/detroit.png"
+  },
+  
+  {
+    "teamName": "Indiana Pacers",
+    "teamConference": "Team Conference: East",
+    "teamWin": "Team Win : 25",
+    "teamLost": "Team Lost: 57",
+    "pointsScored": "Points Scroed: 111",
+    "fieldGoalPercentage": "Field Goal Percentage: 46.3%",
+    "freeThrowPercentage": "Free Throw Percentage: 76.8%",
+    "threePointPercentage": "Three Point Percentage: 34.4%",
+    "threePointShotsMade": "Three Point Shots Made: 997",
+    "totalRebounds": "Total Rebounds: 43.9",
+    "assists": "Assits: 25.4",
+    "turnovers": "Turnovers: 13.6",
+    "blockedShots": "Blocked Shots: 5.6",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/indiana.png"
   }
   
 ]
