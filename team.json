@@ -178,6 +178,22 @@
     "turnovers": "Turnovers: 12.7",
     "blockedShots": "Blocked Shots: 4.0",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/milwaukee.png"
+  },
+  {
+    "teamName": "Atlanta Hawks",
+    "teamConference": "Team Conference: East",
+    "teamWin": "Team Win : 43",
+    "teamLost": "Team Lost: 39",
+    "pointsScored": "Points Scroed: 114",
+    "fieldGoalPercentage": "Field Goal Percentage: 47.0%",
+    "freeThrowPercentage": "Free Throw Percentage: 81.2%",
+    "threePointPercentage": "Three Point Percentage: 37.4%",
+    "threePointShotsMade": "Three Point Shots Made: 1056",
+    "totalRebounds": "Total Rebounds: 44.0",
+    "assists": "Assits: 24.6",
+    "turnovers": "Turnovers: 11.3",
+    "blockedShots": "Blocked Shots: 4.2",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/atlanta.png"
   }
   
 ]
