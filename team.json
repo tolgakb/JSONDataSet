@@ -370,5 +370,21 @@
     "turnovers": "Turnovers: 12.5",
     "blockedShots": "Blocked Shots: 6.5",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/memphis.jpg"
+  },
+  {
+    "teamName": "New Orleans Pelicans",
+    "teamConference": "West",
+    "teamWin": "Team Win : 36",
+    "teamLost": "Team Lost: 46",
+    "pointsScored": "Points Scroed: 109",
+    "fieldGoalPercentage": "Field Goal Percentage: 45.7%",
+    "freeThrowPercentage": "Free Throw Percentage: 78.9%",
+    "threePointPercentage": "Three Point Percentage: 33.2%",
+    "threePointShotsMade": "Three Point Shots Made: 873",
+    "totalRebounds": "Total Rebounds: 45.2",
+    "assists": "Assits: 25.0",
+    "turnovers": "Turnovers: 13.3",
+    "blockedShots": "Blocked Shots: 4.0",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/neworleans.png"
   }
 ]
