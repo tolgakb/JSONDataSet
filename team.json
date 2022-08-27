@@ -466,5 +466,21 @@
     "turnovers": "Turnovers: 13.7",
     "blockedShots": "Blocked Shots: 4.5",
     "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/portland.jpg"
+  },
+  {
+    "teamName": "Utah Jazz",
+    "teamConference": "West",
+    "teamWin": "Team Win : 49",
+    "teamLost": "Team Lost: 33",
+    "pointsScored": "Points Scroed: 114",
+    "fieldGoalPercentage": "Field Goal Percentage: 47.1%",
+    "freeThrowPercentage": "Free Throw Percentage: 76.7%",
+    "threePointPercentage": "Three Point Percentage: 36.0%",
+    "threePointShotsMade": "Three Point Shots Made: 1192",
+    "totalRebounds": "Total Rebounds: 46.3",
+    "assists": "Assits: 22.4",
+    "turnovers": "Turnovers: 13.2",
+    "blockedShots": "Blocked Shots: 4.9",
+    "teamImage": "https://raw.githubusercontent.com/tolgakb/JSONDataSet/main/utah.png"
   }
 ]
